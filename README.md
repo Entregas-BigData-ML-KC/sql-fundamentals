@@ -9,5 +9,10 @@
 - Diseño E-R
 - Uso de DDL y DML
 
+## IMG - DEMO
+
+![Diagrama E-R][diagrama]
+
+[diagrama]: https://github.com/Entregas-BigData-ML-KC/sql-fundamentals/blob/main/img/IMG_E-R.jpg
 
 ##### Trabajo realizado por Jorge Arrojo
